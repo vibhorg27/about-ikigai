@@ -1,4 +1,4 @@
-# psp-project-ikigai
+# Ikigai
 
 
 
